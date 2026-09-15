@@ -1,0 +1,8 @@
+.venv/
+coco/
+data/
+datasets/
+images/
+models/
+pet/
+VOCdevkit/
