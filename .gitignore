@@ -1,4 +1,6 @@
 .venv/
+.venv-torchtext/
+.venv-torchtext-cuda/
 coco/
 data/
 datasets/
@@ -6,3 +8,4 @@ images/
 models/
 pet/
 VOCdevkit/
+torchtext_compat/

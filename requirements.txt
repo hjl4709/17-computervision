@@ -63,6 +63,7 @@ portalocker
 
 # --- 노트북 ---
 jupyter
+tabulate==0.10.0
 ipykernel
 ipywidgets
 kaggle
